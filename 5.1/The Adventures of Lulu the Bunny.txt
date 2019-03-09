@@ -1,0 +1,32 @@
+The Adventures of Lulu the Bunny
+Decision1:
+A monster took Lulu's parents. What should she do?
+Fight
+Run Away
+
+Decision2:
+Lulu's attacks don't work.The monster escapes to its castle.What should she do?
+Chase After the Monster
+Go Home
+
+Decision3:
+Lul arrives home to her village. What shoudl she do next?
+Ask a Friend for Help
+Hide Under Her Bed and Cry
+
+Decision4:
+While exploring the castle, Lulu finds another bunny being held captive. What should she do?
+Release the Bunny
+Ignore the Bunny
+
+BadEnding1:
+Lulu remains in hiding the rest of her life. She never sees her family again. THE END.
+Replay?
+
+BadEnding2:
+Lulu is not strong enough to defeat the monster alone. The monster imprisons her for the rest of her life. THE END.
+Replay?
+
+Good Ending:
+The two bunnies join forces. They defeat the monster and save Lulu's parents. THE END.
+Replay?
